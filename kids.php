@@ -5,40 +5,42 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>kid</title>
 </head>
+
 <nav class="navbar navbar-expand-lg navbar-light" style="background:white" > 
     <div class="container-fluid">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPa3EXZgrnf6Nn74v3FW9p-6PHC-mAwojyg&usqp=CAU" height="70" alt="" ><br>
-  <a class="navbar-brand" href="index.html" style="font-size:larger; font-family:sans-serif;">  Home</a>
+  <a class="navbar-brand" href="index.php" style="font-size:larger; font-family:sans-serif;">  Home</a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
  <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="men.html" style="font-size:larger; font-family:sans-serif;">Men</a>
+        <a class="nav-link active" aria-current="page" href="men.php" style="font-size:larger; font-family:sans-serif;">Men</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#" style="font-size:larger; font-family:sans-serif;"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="womens.html" style="font-size:larger; font-family:sans-serif;">Women</a>
+        <a class="nav-link active" aria-current="page" href="womens.php" style="font-size:larger; font-family:sans-serif;">Women</a>
       </li>
     </li>
     <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="kids.html" style="font-size:larger; font-family:sans-serif;">Kids</a>
+      <a class="nav-link active" aria-current="page" href="kids.php" style="font-size:larger; font-family:sans-serif;">Kids</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="offers.html" style="font-size:larger; font-family:sans-serif;">Offers</a>
+        <a class="nav-link active" aria-current="page" href="offers.php" style="font-size:larger; font-family:sans-serif;">Offers</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="contact.html" style="font-size:larger; font-family:sans-serif;">Contact</a>
+        <a class="nav-link active" aria-current="page" href="contact.php" style="font-size:larger; font-family:sans-serif;">Contact</a>
       </li>
     </ul>
   </div>
 </div>
 </nav>
+
 <body>
     
 
@@ -53,7 +55,7 @@
                     </div>
                     <div class="carousel-inner">
                       <div class="carousel-item active" data-bs-interval="10000">
-                        <img src="https://assets.myntassets.com/f_webp,w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2021/3/14/dc6cf926-8dfe-4161-b4d0-e78c622df2771615743989381-Desktop-Shop-Now.gif" height="500" class="d-block w-100" alt="...">
+                        <img src="https://assets.myntassets.com/f_webp,w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2020/5/11/0b63b12d-1407-459b-821c-135e68ed1f7c1589191328933-dk-kids.jpg" height="500" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             
                             <h5 style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; color:rgb(245, 92, 113);"></h5>
@@ -61,7 +63,7 @@
                         </div>
                       </div>
                       <div class="carousel-item" data-bs-interval="2000">
-                        <img src="https://assets.myntassets.com/f_webp,w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2021/3/14/92d441e5-422c-425b-91a6-0da8c398f55c1615735151174-cat-fest-dk-mar.jpg" height="500" class="d-block w-100" alt="...">
+                        <img src="https://assets.myntassets.com/f_webp,w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2021/3/10/f66accad-df35-46a8-984c-4eabf1d7a3a61615355502789-SS21-DesktopMainLaunch-KidsPageBanner.jpg" height="500" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             
                             <h5 style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; color:floralwhite;"></h5>
@@ -69,7 +71,7 @@
                         </div>
                       </div>
                       <div class="carousel-item">
-                        <img src="https://assets.ajio.com/medias/sys_master/images/images/h32/h63/31250970116126/16032021-d-unisex-topcarousel-spykar-50to70.jpg" height="500" class="d-block w-100" alt="...">
+                        <img src="https://assets.ajio.com/medias/sys_master/images/images/h2d/h28/31250982174750/16032021-D-KHP-topbanner-p4-hamleys-min35.jpg" height="500" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <h5 style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; color:floralwhite;"></h5>
                             <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; color: floralwhite;"></p>
@@ -79,22 +81,22 @@
     </div>
     </div>
         </div>
-        <h2><b><br> DEALS OF THE DAY</b></h2>
+        <h2><b><br> FASHION & ESSENTIALS </b></h2>
         <div class="row">
             <div class="col col-12 col-sm-6 col-md-6 col-lg-12 col-xl-12 col-xxl-12">
                 <table class="table table-borderless">
                     <tr>
                         <td>
                          <div class="card" style="width: 18rem;">
-                         <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/1dce9c3e-77fa-48f1-85a3-d3c136c1d73e1598892377652-USPA.jpg" class="card-img-top" alt="...">
+                         <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/f20838ab-108c-4fe6-bd74-0dc7551a2bbd1604906586589-34-Essentials-Masks.jpg" class="card-img-top" alt="...">
                                  <div class="card-body">
                                  <h5 class="card-title"></h5>
                                  <p class="card-text">
-                                 <a href="https://www.myntra.com/myntra-fashion-store?f=Brand%3AU.S.%20Polo%20Assn.%2CU.S.%20Polo%20Assn.%20Denim%20Co.%2CU.S.%20Polo%20Assn.%20Kids%2CU.S.%20Polo%20Assn.%20Tailored%2CU.S.%20Polo%20Assn.%20Women%3A%3AGender%3Amen%2Cmen%20women&rf=Discount%20Range%3A30.0_100.0_30.0%20TO%20100.0" class="btn btn-primary">Book Now</a>
+                                 <a href="" class="btn btn-primary">Book Now</a>
                                  </div>
                                 </div></td>
                                 <td><div class="card" style="width: 18rem;">
-                                 <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/3fa337a0-c792-4038-8d12-50d463c189a11598892377363-Levis.jpg"  class="card-img-top" alt="...">
+                                 <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/3df8a117-4db8-4cb6-ac0e-e60291d957241604906586646-35-Essentials-BabyCare.jpg"  class="card-img-top" alt="...">
                                  <div class="card-body">
                                  <h5 class="card-title"></h5>
                                  <p class="card-text">
@@ -102,31 +104,20 @@
                                  </div>
                                  </div></td>
                                   <td><div class="card" style="width: 18rem;">
-                                  <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/14/6e0a9fa0-9e8d-4c29-9250-995c9f1ba9331605363273176-Home---U.S.-Polo-Assn..jpg" card-img-top" alt="...">
+                                  <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/c22c8c4b-753a-4f90-8def-511d2ed6caf31604906586731-37-Essentials-EthnicWear.jpg" class="card-img-top" alt="...">
                                   <div class="card-body">
                                  <h5 class="card-title"></h5>
                                  <p class="card-text">
                                  </p>
                                  <a href="" class="btn btn-primary">Book Now</a>
                                  </div>
-                                 </div>
-                                </td>
-
-                                <td><div class="card" style="width: 18rem;">
-                                    <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/af31285e-f6a3-426e-bbea-0aedef9da17c1598892377537-Tommy-Hilfiger.jpg" card-img-top" alt="...">
-                                    <div class="card-body">
-                                   <h5 class="card-title"></h5>
-                                   <p class="card-text">
-                                   </p>
-                                   <a href="" class="btn btn-primary">Book Now</a>
-                                   </div>
-                                   </div>
-                                  </td>
-                    </tr>
+                                  </div>
+                                    </td>
+                                </tr>
                           <tr>
-                    <td>
+                                <td>
                         <div class="card" style="width: 18rem;">
-                        <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/retaillabs/2020/9/23/365320d5-745e-4cbf-bb64-7ef1d8c9c5611600854269662-gap-men.jpg" class="card-img-top" alt="...">
+                        <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/efc4b19d-179f-4437-961c-839df50299a51604906586690-36-Essentials-Night_innerwear.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                         <h5 class="card-title"></h5>
                         <p class="card-text">
@@ -135,7 +126,7 @@
                         </div></td>                       
                        <td>
                       <div class="card" style="width: 18rem;">
-                      <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/7c28bc7a-0184-44b2-8666-ea1438d595561598892377316-J_J.jpg" class="card-img-top" alt="...">
+                      <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/33368b8b-8702-4108-96a9-b8fa5b7ed36f1604906586455-31-Essentials-FlipFlop_sandals.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
                       <h5 class="card-title"></h5>
                       <p class="card-text">
@@ -144,30 +135,20 @@
                       </div></td>
                       <td>
                       <div class="card" style="width: 18rem;">
-                      <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/8d5afb84-a464-40af-9971-2e9f0827e9b71598892377591-UCB.jpg" class="card-img-top" alt="...">
+                      <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/2ab2f5b3-441a-430c-a605-2ac9d06007c01604906586315-28-Essentials-Dresses.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
                       <h5 class="card-title"></h5>
                       <p class="card-text">
                       </p>
                       <a href="" class="btn btn-primary">Book Now</a>
                       </div></td>
-
-                      <td>
-                        <div class="card" style="width: 18rem;">
-                        <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/25/085719b1-c71e-4f47-950c-9a6b7f291fac1598348260370-Jack-_-Jones.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                        <h5 class="card-title"></h5>
-                        <p class="card-text">
-                        </p>
-                        <a href="" class="btn btn-primary">Book Now</a>
-                        </div></td>
                      </tr>
 
 
                      <tr>
                         <td>
                             <div class="card" style="width: 18rem;">
-                            <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/cec595c6-c7ec-4259-af8b-997a33a09ce71598892377444-Puma.jpg" class="card-img-top" alt="...">
+                            <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/c75a2039-4199-4174-b1b9-fecd30f7d3f91604906586359-29-Essentials-Tshirts_Tops.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                             <h5 class="card-title"></h5>
                             <p class="card-text">
@@ -176,7 +157,7 @@
                             </div></td>                       
                            <td>
                           <div class="card" style="width: 18rem;">
-                          <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/0206da63-a7cc-4f83-8527-90d7dc74706b1598892377489-Skechers.jpg" class="card-img-top" alt="...">
+                          <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/4e6eefd3-3355-4c1c-851e-48a49c97d5b31604906586407-30-Essentials-Onesies.jpg" class="card-img-top" alt="...">
                           <div class="card-body">
                           <h5 class="card-title"></h5>
                           <p class="card-text">
@@ -185,22 +166,13 @@
                           </div></td>
                           <td>
                           <div class="card" style="width: 18rem;">
-                          <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/8/31/d977e7ac-67dd-4fa6-b922-fe0057385dfa1598892377205-Crocs.jpg" class="card-img-top" alt="...">
+                          <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/353fd453-6a17-45b9-b3da-a3dfd88121a31604906586547-33-Essentials-Valuepacks.jpg" class="card-img-top" alt="...">
                           <div class="card-body">
                           <h5 class="card-title"></h5>
                           <p class="card-text">
                           </p>
                           <a href="" class="btn btn-primary">Book Now</a>
                           </div></td>
-                          <td>
-                            <div class="card" style="width: 18rem;">
-                            <img src="https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/14/d5c17859-f366-4a65-ab42-5a066254feaa1605363272474-Home---GAP.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                            <h5 class="card-title"></h5>
-                            <p class="card-text">
-                            </p>
-                            <a href="" class="btn btn-primary">Book Now</a>
-                            </div></td>
                          </tr>
                 </table>
              </div>

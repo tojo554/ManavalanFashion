@@ -11,30 +11,30 @@
 <nav class="navbar navbar-expand-lg navbar-light" style="background:white" > 
     <div class="container-fluid">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPa3EXZgrnf6Nn74v3FW9p-6PHC-mAwojyg&usqp=CAU" height="70" alt="" ><br>
-  <a class="navbar-brand" href="index.html" style="font-size:larger; font-family:sans-serif;">  Home</a>
+  <a class="navbar-brand" href="index.php" style="font-size:larger; font-family:sans-serif;">  Home</a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
  <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="men.html" style="font-size:larger; font-family:sans-serif;">Men</a>
+        <a class="nav-link active" aria-current="page" href="men.php" style="font-size:larger; font-family:sans-serif;">Men</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#" style="font-size:larger; font-family:sans-serif;"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="womens.html" style="font-size:larger; font-family:sans-serif;">Women</a>
+        <a class="nav-link active" aria-current="page" href="womens.php" style="font-size:larger; font-family:sans-serif;">Women</a>
       </li>
     </li>
     <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="kids.html" style="font-size:larger; font-family:sans-serif;">Kids</a>
+      <a class="nav-link active" aria-current="page" href="kids.php" style="font-size:larger; font-family:sans-serif;">Kids</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="offers.html" style="font-size:larger; font-family:sans-serif;">Offers</a>
+        <a class="nav-link active" aria-current="page" href="offers.php" style="font-size:larger; font-family:sans-serif;">Offers</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="contact.html" style="font-size:larger; font-family:sans-serif;">Contact</a>
+        <a class="nav-link active" aria-current="page" href="contact.php" style="font-size:larger; font-family:sans-serif;">Contact</a>
       </li>
     </ul>
   </div>
